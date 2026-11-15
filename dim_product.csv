@@ -1,0 +1,296 @@
+prd_id,prd_nm,prd_cost,prd_start_dt,prd_line_desc,cat_code,product_key,category,subcategory,maintenance
+601,LL Bottom Bracket,24.0,2013-07-01,Unknown,CO_BB,BB-7421,Components,Bottom Brackets,Yes
+602,ML Bottom Bracket,45.0,2013-07-01,Unknown,CO_BB,BB-8107,Components,Bottom Brackets,Yes
+603,HL Bottom Bracket,54.0,2013-07-01,Unknown,CO_BB,BB-9108,Components,Bottom Brackets,Yes
+478,Mountain Bottle Cage,4.0,2013-07-01,Mountain,AC_BC,BC-M005,Accessories,Bottles and Cages,No
+479,Road Bottle Cage,3.0,2013-07-01,Road,AC_BC,BC-R205,Accessories,Bottles and Cages,No
+596,Mountain-500 Black- 40,295.0,2013-07-01,Mountain,BI_MB,BK-M18B-40,Bikes,Mountain Bikes,Yes
+597,Mountain-500 Black- 42,295.0,2013-07-01,Mountain,BI_MB,BK-M18B-42,Bikes,Mountain Bikes,Yes
+598,Mountain-500 Black- 44,295.0,2013-07-01,Mountain,BI_MB,BK-M18B-44,Bikes,Mountain Bikes,Yes
+599,Mountain-500 Black- 48,295.0,2013-07-01,Mountain,BI_MB,BK-M18B-48,Bikes,Mountain Bikes,Yes
+600,Mountain-500 Black- 52,295.0,2013-07-01,Mountain,BI_MB,BK-M18B-52,Bikes,Mountain Bikes,Yes
+591,Mountain-500 Silver- 40,308.0,2013-07-01,Mountain,BI_MB,BK-M18S-40,Bikes,Mountain Bikes,Yes
+592,Mountain-500 Silver- 42,308.0,2013-07-01,Mountain,BI_MB,BK-M18S-42,Bikes,Mountain Bikes,Yes
+593,Mountain-500 Silver- 44,308.0,2013-07-01,Mountain,BI_MB,BK-M18S-44,Bikes,Mountain Bikes,Yes
+594,Mountain-500 Silver- 48,308.0,2013-07-01,Mountain,BI_MB,BK-M18S-48,Bikes,Mountain Bikes,Yes
+595,Mountain-500 Silver- 52,308.0,2013-07-01,Mountain,BI_MB,BK-M18S-52,Bikes,Mountain Bikes,Yes
+587,Mountain-400-W Silver- 38,420.0,2013-07-01,Mountain,BI_MB,BK-M38S-38,Bikes,Mountain Bikes,Yes
+588,Mountain-400-W Silver- 40,420.0,2013-07-01,Mountain,BI_MB,BK-M38S-40,Bikes,Mountain Bikes,Yes
+589,Mountain-400-W Silver- 42,420.0,2013-07-01,Mountain,BI_MB,BK-M38S-42,Bikes,Mountain Bikes,Yes
+590,Mountain-400-W Silver- 46,420.0,2013-07-01,Mountain,BI_MB,BK-M38S-46,Bikes,Mountain Bikes,Yes
+364,Mountain-300 Black- 38,598.0,2012-07-01,Mountain,BI_MB,BK-M47B-38,Bikes,Mountain Bikes,Yes
+365,Mountain-300 Black- 40,598.0,2012-07-01,Mountain,BI_MB,BK-M47B-40,Bikes,Mountain Bikes,Yes
+366,Mountain-300 Black- 44,598.0,2012-07-01,Mountain,BI_MB,BK-M47B-44,Bikes,Mountain Bikes,Yes
+367,Mountain-300 Black- 48,598.0,2012-07-01,Mountain,BI_MB,BK-M47B-48,Bikes,Mountain Bikes,Yes
+359,Mountain-200 Black- 38,1252.0,2013-07-01,Mountain,BI_MB,BK-M68B-38,Bikes,Mountain Bikes,Yes
+361,Mountain-200 Black- 42,1252.0,2013-07-01,Mountain,BI_MB,BK-M68B-42,Bikes,Mountain Bikes,Yes
+363,Mountain-200 Black- 46,1252.0,2013-07-01,Mountain,BI_MB,BK-M68B-46,Bikes,Mountain Bikes,Yes
+353,Mountain-200 Silver- 38,1266.0,2013-07-01,Mountain,BI_MB,BK-M68S-38,Bikes,Mountain Bikes,Yes
+355,Mountain-200 Silver- 42,1266.0,2013-07-01,Mountain,BI_MB,BK-M68S-42,Bikes,Mountain Bikes,Yes
+357,Mountain-200 Silver- 46,1266.0,2013-07-01,Mountain,BI_MB,BK-M68S-46,Bikes,Mountain Bikes,Yes
+348,Mountain-100 Black- 38,1898.0,2011-07-01,Mountain,BI_MB,BK-M82B-38,Bikes,Mountain Bikes,Yes
+349,Mountain-100 Black- 42,1898.0,2011-07-01,Mountain,BI_MB,BK-M82B-42,Bikes,Mountain Bikes,Yes
+350,Mountain-100 Black- 44,1898.0,2011-07-01,Mountain,BI_MB,BK-M82B-44,Bikes,Mountain Bikes,Yes
+351,Mountain-100 Black- 48,1898.0,2011-07-01,Mountain,BI_MB,BK-M82B-48,Bikes,Mountain Bikes,Yes
+344,Mountain-100 Silver- 38,1912.0,2011-07-01,Mountain,BI_MB,BK-M82S-38,Bikes,Mountain Bikes,Yes
+345,Mountain-100 Silver- 42,1912.0,2011-07-01,Mountain,BI_MB,BK-M82S-42,Bikes,Mountain Bikes,Yes
+346,Mountain-100 Silver- 44,1912.0,2011-07-01,Mountain,BI_MB,BK-M82S-44,Bikes,Mountain Bikes,Yes
+347,Mountain-100 Silver- 48,1912.0,2011-07-01,Mountain,BI_MB,BK-M82S-48,Bikes,Mountain Bikes,Yes
+604,Road-750 Black- 44,344.0,2013-07-01,Road,BI_RB,BK-R19B-44,Bikes,Road Bikes,Yes
+605,Road-750 Black- 48,344.0,2013-07-01,Road,BI_RB,BK-R19B-48,Bikes,Road Bikes,Yes
+606,Road-750 Black- 52,344.0,2013-07-01,Road,BI_RB,BK-R19B-52,Bikes,Road Bikes,Yes
+584,Road-750 Black- 58,344.0,2013-07-01,Road,BI_RB,BK-R19B-58,Bikes,Road Bikes,Yes
+339,Road-650 Black- 44,487.0,2012-07-01,Road,BI_RB,BK-R50B-44,Bikes,Road Bikes,Yes
+341,Road-650 Black- 48,487.0,2012-07-01,Road,BI_RB,BK-R50B-48,Bikes,Road Bikes,Yes
+343,Road-650 Black- 52,487.0,2012-07-01,Road,BI_RB,BK-R50B-52,Bikes,Road Bikes,Yes
+333,Road-650 Black- 58,487.0,2012-07-01,Road,BI_RB,BK-R50B-58,Bikes,Road Bikes,Yes
+335,Road-650 Black- 60,487.0,2012-07-01,Road,BI_RB,BK-R50B-60,Bikes,Road Bikes,Yes
+337,Road-650 Black- 62,487.0,2012-07-01,Road,BI_RB,BK-R50B-62,Bikes,Road Bikes,Yes
+327,Road-650 Red- 44,487.0,2012-07-01,Road,BI_RB,BK-R50R-44,Bikes,Road Bikes,Yes
+329,Road-650 Red- 48,487.0,2012-07-01,Road,BI_RB,BK-R50R-48,Bikes,Road Bikes,Yes
+331,Road-650 Red- 52,487.0,2012-07-01,Road,BI_RB,BK-R50R-52,Bikes,Road Bikes,Yes
+321,Road-650 Red- 58,487.0,2012-07-01,Road,BI_RB,BK-R50R-58,Bikes,Road Bikes,Yes
+323,Road-650 Red- 60,487.0,2012-07-01,Road,BI_RB,BK-R50R-60,Bikes,Road Bikes,Yes
+325,Road-650 Red- 62,487.0,2012-07-01,Road,BI_RB,BK-R50R-62,Bikes,Road Bikes,Yes
+382,Road-550-W Yellow- 38,713.0,2013-07-01,Road,BI_RB,BK-R64Y-38,Bikes,Road Bikes,Yes
+384,Road-550-W Yellow- 40,713.0,2013-07-01,Road,BI_RB,BK-R64Y-40,Bikes,Road Bikes,Yes
+386,Road-550-W Yellow- 42,713.0,2013-07-01,Road,BI_RB,BK-R64Y-42,Bikes,Road Bikes,Yes
+388,Road-550-W Yellow- 44,713.0,2013-07-01,Road,BI_RB,BK-R64Y-44,Bikes,Road Bikes,Yes
+390,Road-550-W Yellow- 48,713.0,2013-07-01,Road,BI_RB,BK-R64Y-48,Bikes,Road Bikes,Yes
+317,Road-450 Red- 44,885.0,2011-07-01,Road,BI_RB,BK-R68R-44,Bikes,Road Bikes,Yes
+318,Road-450 Red- 48,885.0,2011-07-01,Road,BI_RB,BK-R68R-48,Bikes,Road Bikes,Yes
+319,Road-450 Red- 52,885.0,2011-07-01,Road,BI_RB,BK-R68R-52,Bikes,Road Bikes,Yes
+315,Road-450 Red- 58,885.0,2011-07-01,Road,BI_RB,BK-R68R-58,Bikes,Road Bikes,Yes
+316,Road-450 Red- 60,885.0,2011-07-01,Road,BI_RB,BK-R68R-60,Bikes,Road Bikes,Yes
+580,Road-350-W Yellow- 40,1083.0,2013-07-01,Road,BI_RB,BK-R79Y-40,Bikes,Road Bikes,Yes
+581,Road-350-W Yellow- 42,1083.0,2013-07-01,Road,BI_RB,BK-R79Y-42,Bikes,Road Bikes,Yes
+582,Road-350-W Yellow- 44,1083.0,2013-07-01,Road,BI_RB,BK-R79Y-44,Bikes,Road Bikes,Yes
+583,Road-350-W Yellow- 48,1083.0,2013-07-01,Road,BI_RB,BK-R79Y-48,Bikes,Road Bikes,Yes
+374,Road-250 Black- 44,1555.0,2013-07-01,Road,BI_RB,BK-R89B-44,Bikes,Road Bikes,Yes
+376,Road-250 Black- 48,1555.0,2013-07-01,Road,BI_RB,BK-R89B-48,Bikes,Road Bikes,Yes
+378,Road-250 Black- 52,1555.0,2013-07-01,Road,BI_RB,BK-R89B-52,Bikes,Road Bikes,Yes
+380,Road-250 Black- 58,1555.0,2013-07-01,Road,BI_RB,BK-R89B-58,Bikes,Road Bikes,Yes
+368,Road-250 Red- 44,1519.0,2012-07-01,Road,BI_RB,BK-R89R-44,Bikes,Road Bikes,Yes
+369,Road-250 Red- 48,1519.0,2012-07-01,Road,BI_RB,BK-R89R-48,Bikes,Road Bikes,Yes
+370,Road-250 Red- 52,1519.0,2012-07-01,Road,BI_RB,BK-R89R-52,Bikes,Road Bikes,Yes
+372,Road-250 Red- 58,1555.0,2013-07-01,Road,BI_RB,BK-R89R-58,Bikes,Road Bikes,Yes
+311,Road-150 Red- 44,2171.0,2011-07-01,Road,BI_RB,BK-R93R-44,Bikes,Road Bikes,Yes
+312,Road-150 Red- 48,2171.0,2011-07-01,Road,BI_RB,BK-R93R-48,Bikes,Road Bikes,Yes
+313,Road-150 Red- 52,2171.0,2011-07-01,Road,BI_RB,BK-R93R-52,Bikes,Road Bikes,Yes
+314,Road-150 Red- 56,2171.0,2011-07-01,Road,BI_RB,BK-R93R-56,Bikes,Road Bikes,Yes
+310,Road-150 Red- 62,2171.0,2011-07-01,Road,BI_RB,BK-R93R-62,Bikes,Road Bikes,Yes
+585,Touring-3000 Blue- 44,461.0,2013-07-01,Touring,BI_TB,BK-T18U-44,Bikes,Touring Bikes,Yes
+586,Touring-3000 Blue- 50,461.0,2013-07-01,Touring,BI_TB,BK-T18U-50,Bikes,Touring Bikes,Yes
+565,Touring-3000 Blue- 54,461.0,2013-07-01,Touring,BI_TB,BK-T18U-54,Bikes,Touring Bikes,Yes
+566,Touring-3000 Blue- 58,461.0,2013-07-01,Touring,BI_TB,BK-T18U-58,Bikes,Touring Bikes,Yes
+567,Touring-3000 Blue- 62,461.0,2013-07-01,Touring,BI_TB,BK-T18U-62,Bikes,Touring Bikes,Yes
+568,Touring-3000 Yellow- 44,461.0,2013-07-01,Touring,BI_TB,BK-T18Y-44,Bikes,Touring Bikes,Yes
+569,Touring-3000 Yellow- 50,461.0,2013-07-01,Touring,BI_TB,BK-T18Y-50,Bikes,Touring Bikes,Yes
+570,Touring-3000 Yellow- 54,461.0,2013-07-01,Touring,BI_TB,BK-T18Y-54,Bikes,Touring Bikes,Yes
+571,Touring-3000 Yellow- 58,461.0,2013-07-01,Touring,BI_TB,BK-T18Y-58,Bikes,Touring Bikes,Yes
+572,Touring-3000 Yellow- 62,461.0,2013-07-01,Touring,BI_TB,BK-T18Y-62,Bikes,Touring Bikes,Yes
+577,Touring-2000 Blue- 46,755.0,2013-07-01,Touring,BI_TB,BK-T44U-46,Bikes,Touring Bikes,Yes
+578,Touring-2000 Blue- 50,755.0,2013-07-01,Touring,BI_TB,BK-T44U-50,Bikes,Touring Bikes,Yes
+579,Touring-2000 Blue- 54,755.0,2013-07-01,Touring,BI_TB,BK-T44U-54,Bikes,Touring Bikes,Yes
+560,Touring-2000 Blue- 60,755.0,2013-07-01,Touring,BI_TB,BK-T44U-60,Bikes,Touring Bikes,Yes
+573,Touring-1000 Blue- 46,1482.0,2013-07-01,Touring,BI_TB,BK-T79U-46,Bikes,Touring Bikes,Yes
+574,Touring-1000 Blue- 50,1482.0,2013-07-01,Touring,BI_TB,BK-T79U-50,Bikes,Touring Bikes,Yes
+575,Touring-1000 Blue- 54,1482.0,2013-07-01,Touring,BI_TB,BK-T79U-54,Bikes,Touring Bikes,Yes
+576,Touring-1000 Blue- 60,1482.0,2013-07-01,Touring,BI_TB,BK-T79U-60,Bikes,Touring Bikes,Yes
+561,Touring-1000 Yellow- 46,1482.0,2013-07-01,Touring,BI_TB,BK-T79Y-46,Bikes,Touring Bikes,Yes
+562,Touring-1000 Yellow- 50,1482.0,2013-07-01,Touring,BI_TB,BK-T79Y-50,Bikes,Touring Bikes,Yes
+563,Touring-1000 Yellow- 54,1482.0,2013-07-01,Touring,BI_TB,BK-T79Y-54,Bikes,Touring Bikes,Yes
+564,Touring-1000 Yellow- 60,1482.0,2013-07-01,Touring,BI_TB,BK-T79Y-60,Bikes,Touring Bikes,Yes
+225,AWC Logo Cap,7.0,2013-07-01,Other Sales,CL_CA,CA-1098,Clothing,Caps,No
+559,Chain,9.0,2013-07-01,Unknown,CO_CH,CH-0234,Components,Chains,Yes
+484,Bike Wash - Dissolver,3.0,2013-07-01,Other Sales,AC_CL,CL-9009,Accessories,Cleaners,Yes
+556,LL Crankset,78.0,2013-07-01,Unknown,CO_CS,CS-4759,Components,Cranksets,Yes
+557,ML Crankset,114.0,2013-07-01,Unknown,CO_CS,CS-6583,Components,Cranksets,Yes
+558,HL Crankset,180.0,2013-07-01,Unknown,CO_CS,CS-9183,Components,Cranksets,Yes
+555,Front Brakes,47.0,2013-07-01,Unknown,CO_BR,FB-9873,Components,Brakes,Yes
+552,Front Derailleur,41.0,2013-07-01,Unknown,CO_DE,FD-2342,Components,Derailleurs,Yes
+485,Fender Set - Mountain,8.0,2013-07-01,Mountain,AC_FE,FE-6654,Accessories,Fenders,No
+391,LL Fork,66.0,2012-07-01,Unknown,CO_FO,FK-1639,Components,Forks,Yes
+392,ML Fork,78.0,2012-07-01,Unknown,CO_FO,FK-5136,Components,Forks,Yes
+393,HL Fork,102.0,2012-07-01,Unknown,CO_FO,FK-9939,Components,Forks,Yes
+550,LL Mountain Frame - Black- 40,137.0,2013-07-01,Mountain,CO_MF,FR-M21B-40,Components,Mountain Frames,Yes
+531,LL Mountain Frame - Black- 42,137.0,2013-07-01,Mountain,CO_MF,FR-M21B-42,Components,Mountain Frames,Yes
+532,LL Mountain Frame - Black- 44,137.0,2013-07-01,Mountain,CO_MF,FR-M21B-44,Components,Mountain Frames,Yes
+533,LL Mountain Frame - Black- 48,137.0,2013-07-01,Mountain,CO_MF,FR-M21B-48,Components,Mountain Frames,Yes
+534,LL Mountain Frame - Black- 52,137.0,2013-07-01,Mountain,CO_MF,FR-M21B-52,Components,Mountain Frames,Yes
+551,LL Mountain Frame - Silver- 40,145.0,2013-07-01,Mountain,CO_MF,FR-M21S-40,Components,Mountain Frames,Yes
+524,LL Mountain Frame - Silver- 42,145.0,2013-07-01,Mountain,CO_MF,FR-M21S-42,Components,Mountain Frames,Yes
+525,LL Mountain Frame - Silver- 44,145.0,2013-07-01,Mountain,CO_MF,FR-M21S-44,Components,Mountain Frames,Yes
+526,LL Mountain Frame - Silver- 48,145.0,2013-07-01,Mountain,CO_MF,FR-M21S-48,Components,Mountain Frames,Yes
+527,LL Mountain Frame - Silver- 52,145.0,2013-07-01,Mountain,CO_MF,FR-M21S-52,Components,Mountain Frames,Yes
+409,ML Mountain Frame - Black- 38,186.0,2012-07-01,Mountain,CO_MF,FR-M63B-38,Components,Mountain Frames,Yes
+426,ML Mountain Frame - Black- 40,186.0,2012-07-01,Mountain,CO_MF,FR-M63B-40,Components,Mountain Frames,Yes
+427,ML Mountain Frame - Black- 44,186.0,2012-07-01,Mountain,CO_MF,FR-M63B-44,Components,Mountain Frames,Yes
+428,ML Mountain Frame - Black- 48,186.0,2012-07-01,Mountain,CO_MF,FR-M63B-48,Components,Mountain Frames,Yes
+549,ML Mountain Frame-W - Silver- 38,199.0,2013-07-01,Mountain,CO_MF,FR-M63S-38,Components,Mountain Frames,Yes
+511,ML Mountain Frame-W - Silver- 40,199.0,2013-07-01,Mountain,CO_MF,FR-M63S-40,Components,Mountain Frames,Yes
+512,ML Mountain Frame-W - Silver- 42,199.0,2013-07-01,Mountain,CO_MF,FR-M63S-42,Components,Mountain Frames,Yes
+513,ML Mountain Frame-W - Silver- 46,199.0,2013-07-01,Mountain,CO_MF,FR-M63S-46,Components,Mountain Frames,Yes
+306,HL Mountain Frame - Black- 38,739.0,2013-07-01,Mountain,CO_MF,FR-M94B-38,Components,Mountain Frames,Yes
+298,HL Mountain Frame - Black- 42,739.0,2013-07-01,Mountain,CO_MF,FR-M94B-42,Components,Mountain Frames,Yes
+299,HL Mountain Frame - Black- 44,699.0,2011-07-01,Mountain,CO_MF,FR-M94B-44,Components,Mountain Frames,Yes
+303,HL Mountain Frame - Black- 46,739.0,2013-07-01,Mountain,CO_MF,FR-M94B-46,Components,Mountain Frames,Yes
+300,HL Mountain Frame - Black- 48,699.0,2011-07-01,Mountain,CO_MF,FR-M94B-48,Components,Mountain Frames,Yes
+309,HL Mountain Frame - Silver- 38,747.0,2013-07-01,Mountain,CO_MF,FR-M94S-38,Components,Mountain Frames,Yes
+290,HL Mountain Frame - Silver- 42,747.0,2013-07-01,Mountain,CO_MF,FR-M94S-42,Components,Mountain Frames,Yes
+291,HL Mountain Frame - Silver- 44,707.0,2011-07-01,Mountain,CO_MF,FR-M94S-44,Components,Mountain Frames,Yes
+295,HL Mountain Frame - Silver- 46,747.0,2013-07-01,Mountain,CO_MF,FR-M94S-46,Components,Mountain Frames,Yes
+292,HL Mountain Frame - Silver- 48,707.0,2011-07-01,Mountain,CO_MF,FR-M94S-52,Components,Mountain Frames,Yes
+281,LL Road Frame - Black- 44,205.0,2013-07-01,Road,CO_RF,FR-R38B-44,Components,Road Frames,Yes
+284,LL Road Frame - Black- 48,205.0,2013-07-01,Road,CO_RF,FR-R38B-48,Components,Road Frames,Yes
+287,LL Road Frame - Black- 52,205.0,2013-07-01,Road,CO_RF,FR-R38B-52,Components,Road Frames,Yes
+255,LL Road Frame - Black- 58,205.0,2013-07-01,Road,CO_RF,FR-R38B-58,Components,Road Frames,Yes
+258,LL Road Frame - Black- 60,205.0,2013-07-01,Road,CO_RF,FR-R38B-60,Components,Road Frames,Yes
+261,LL Road Frame - Black- 62,205.0,2013-07-01,Road,CO_RF,FR-R38B-62,Components,Road Frames,Yes
+263,LL Road Frame - Red- 44,187.0,2012-07-01,Road,CO_RF,FR-R38R-44,Components,Road Frames,Yes
+265,LL Road Frame - Red- 48,187.0,2012-07-01,Road,CO_RF,FR-R38R-48,Components,Road Frames,Yes
+267,LL Road Frame - Red- 52,187.0,2012-07-01,Road,CO_RF,FR-R38R-52,Components,Road Frames,Yes
+269,LL Road Frame - Red- 58,187.0,2012-07-01,Road,CO_RF,FR-R38R-58,Components,Road Frames,Yes
+271,LL Road Frame - Red- 60,187.0,2012-07-01,Road,CO_RF,FR-R38R-60,Components,Road Frames,Yes
+273,LL Road Frame - Red- 62,187.0,2012-07-01,Road,CO_RF,FR-R38R-62,Components,Road Frames,Yes
+274,ML Road Frame - Red- 44,352.0,2011-07-01,Road,CO_RF,FR-R72R-44,Components,Road Frames,Yes
+275,ML Road Frame - Red- 48,352.0,2011-07-01,Road,CO_RF,FR-R72R-48,Components,Road Frames,Yes
+276,ML Road Frame - Red- 52,352.0,2011-07-01,Road,CO_RF,FR-R72R-52,Components,Road Frames,Yes
+277,ML Road Frame - Red- 58,352.0,2011-07-01,Road,CO_RF,FR-R72R-58,Components,Road Frames,Yes
+278,ML Road Frame - Red- 60,352.0,2011-07-01,Road,CO_RF,FR-R72R-60,Components,Road Frames,Yes
+418,ML Road Frame-W - Yellow- 38,361.0,2013-07-01,Road,CO_RF,FR-R72Y-38,Components,Road Frames,Yes
+430,ML Road Frame-W - Yellow- 40,361.0,2013-07-01,Road,CO_RF,FR-R72Y-40,Components,Road Frames,Yes
+432,ML Road Frame-W - Yellow- 42,361.0,2013-07-01,Road,CO_RF,FR-R72Y-42,Components,Road Frames,Yes
+434,ML Road Frame-W - Yellow- 44,361.0,2013-07-01,Road,CO_RF,FR-R72Y-44,Components,Road Frames,Yes
+436,ML Road Frame-W - Yellow- 48,361.0,2013-07-01,Road,CO_RF,FR-R72Y-48,Components,Road Frames,Yes
+440,HL Road Frame - Black- 44,869.0,2013-07-01,Road,CO_RF,FR-R92B-44,Components,Road Frames,Yes
+442,HL Road Frame - Black- 48,869.0,2013-07-01,Road,CO_RF,FR-R92B-48,Components,Road Frames,Yes
+444,HL Road Frame - Black- 52,869.0,2013-07-01,Road,CO_RF,FR-R92B-52,Components,Road Frames,Yes
+210,HL Road Frame - Black- 58,0.0,2003-07-01,Road,CO_RF,FR-R92B-58,Components,Road Frames,Yes
+438,HL Road Frame - Black- 62,869.0,2013-07-01,Road,CO_RF,FR-R92B-62,Components,Road Frames,Yes
+243,HL Road Frame - Red- 44,869.0,2013-07-01,Road,CO_RF,FR-R92R-44,Components,Road Frames,Yes
+246,HL Road Frame - Red- 48,869.0,2013-07-01,Road,CO_RF,FR-R92R-48,Components,Road Frames,Yes
+249,HL Road Frame - Red- 52,869.0,2013-07-01,Road,CO_RF,FR-R92R-52,Components,Road Frames,Yes
+252,HL Road Frame - Red- 56,869.0,2013-07-01,Road,CO_RF,FR-R92R-56,Components,Road Frames,Yes
+211,HL Road Frame - Red- 58,0.0,2003-07-01,Road,CO_RF,FR-R92R-58,Components,Road Frames,Yes
+240,HL Road Frame - Red- 62,869.0,2013-07-01,Road,CO_RF,FR-R92R-62,Components,Road Frames,Yes
+510,LL Touring Frame - Blue- 44,200.0,2013-07-01,Touring,CO_TF,FR-T67U-44,Components,Touring Frames,Yes
+502,LL Touring Frame - Blue- 50,200.0,2013-07-01,Touring,CO_TF,FR-T67U-50,Components,Touring Frames,Yes
+503,LL Touring Frame - Blue- 54,200.0,2013-07-01,Touring,CO_TF,FR-T67U-54,Components,Touring Frames,Yes
+504,LL Touring Frame - Blue- 58,200.0,2013-07-01,Touring,CO_TF,FR-T67U-58,Components,Touring Frames,Yes
+505,LL Touring Frame - Blue- 62,200.0,2013-07-01,Touring,CO_TF,FR-T67U-62,Components,Touring Frames,Yes
+506,LL Touring Frame - Yellow- 44,200.0,2013-07-01,Touring,CO_TF,FR-T67Y-44,Components,Touring Frames,Yes
+507,LL Touring Frame - Yellow- 50,200.0,2013-07-01,Touring,CO_TF,FR-T67Y-50,Components,Touring Frames,Yes
+508,LL Touring Frame - Yellow- 54,200.0,2013-07-01,Touring,CO_TF,FR-T67Y-54,Components,Touring Frames,Yes
+509,LL Touring Frame - Yellow- 58,200.0,2013-07-01,Touring,CO_TF,FR-T67Y-58,Components,Touring Frames,Yes
+493,LL Touring Frame - Yellow- 62,200.0,2013-07-01,Touring,CO_TF,FR-T67Y-62,Components,Touring Frames,Yes
+497,HL Touring Frame - Blue- 46,602.0,2013-07-01,Touring,CO_TF,FR-T98U-46,Components,Touring Frames,Yes
+498,HL Touring Frame - Blue- 50,602.0,2013-07-01,Touring,CO_TF,FR-T98U-50,Components,Touring Frames,Yes
+499,HL Touring Frame - Blue- 54,602.0,2013-07-01,Touring,CO_TF,FR-T98U-54,Components,Touring Frames,Yes
+500,HL Touring Frame - Blue- 60,602.0,2013-07-01,Touring,CO_TF,FR-T98U-60,Components,Touring Frames,Yes
+494,HL Touring Frame - Yellow- 46,602.0,2013-07-01,Touring,CO_TF,FR-T98Y-46,Components,Touring Frames,Yes
+495,HL Touring Frame - Yellow- 50,602.0,2013-07-01,Touring,CO_TF,FR-T98Y-50,Components,Touring Frames,Yes
+496,HL Touring Frame - Yellow- 54,602.0,2013-07-01,Touring,CO_TF,FR-T98Y-54,Components,Touring Frames,Yes
+492,HL Touring Frame - Yellow- 60,602.0,2013-07-01,Touring,CO_TF,FR-T98Y-60,Components,Touring Frames,Yes
+410,LL Mountain Front Wheel,27.0,2012-07-01,Mountain,CO_WH,FW-M423,Components,Wheels,Yes
+411,ML Mountain Front Wheel,93.0,2012-07-01,Mountain,CO_WH,FW-M762,Components,Wheels,Yes
+412,HL Mountain Front Wheel,133.0,2012-07-01,Mountain,CO_WH,FW-M928,Components,Wheels,Yes
+413,LL Road Front Wheel,38.0,2012-07-01,Road,CO_WH,FW-R623,Components,Wheels,Yes
+414,ML Road Front Wheel,110.0,2012-07-01,Road,CO_WH,FW-R762,Components,Wheels,Yes
+415,HL Road Front Wheel,147.0,2012-07-01,Road,CO_WH,FW-R820,Components,Wheels,Yes
+416,Touring Front Wheel,97.0,2012-07-01,Touring,CO_WH,FW-T905,Components,Wheels,Yes
+470,Full-Finger Gloves- L,16.0,2012-07-01,Mountain,CL_GL,GL-F110-L,Clothing,Gloves,No
+469,Full-Finger Gloves- M,16.0,2012-07-01,Mountain,CL_GL,GL-F110-M,Clothing,Gloves,No
+468,Full-Finger Gloves- S,16.0,2012-07-01,Mountain,CL_GL,GL-F110-S,Clothing,Gloves,No
+467,Half-Finger Gloves- L,9.0,2013-07-01,Other Sales,CL_GL,GL-H102-L,Clothing,Gloves,No
+465,Half-Finger Gloves- M,9.0,2013-07-01,Other Sales,CL_GL,GL-H102-M,Clothing,Gloves,No
+463,Half-Finger Gloves- S,9.0,2013-07-01,Other Sales,CL_GL,GL-H102-S,Clothing,Gloves,No
+398,LL Mountain Handlebars,20.0,2013-07-01,Mountain,CO_HB,HB-M243,Components,Handlebars,No
+400,ML Mountain Handlebars,27.0,2013-07-01,Mountain,CO_HB,HB-M763,Components,Handlebars,No
+402,HL Mountain Handlebars,53.0,2013-07-01,Mountain,CO_HB,HB-M918,Components,Handlebars,No
+404,LL Road Handlebars,20.0,2013-07-01,Road,CO_HB,HB-R504,Components,Handlebars,No
+406,ML Road Handlebars,27.0,2013-07-01,Road,CO_HB,HB-R720,Components,Handlebars,No
+408,HL Road Handlebars,53.0,2013-07-01,Road,CO_HB,HB-R956,Components,Handlebars,No
+553,LL Touring Handlebars,20.0,2013-07-01,Touring,CO_HB,HB-T721,Components,Handlebars,No
+554,HL Touring Handlebars,41.0,2013-07-01,Touring,CO_HB,HB-T928,Components,Handlebars,No
+217,Sport-100 Helmet- Black,13.0,2013-07-01,Other Sales,AC_HE,HL-U509,Accessories,Helmets,Yes
+222,Sport-100 Helmet- Blue,13.0,2013-07-01,Other Sales,AC_HE,HL-U509-B,Accessories,Helmets,Yes
+214,Sport-100 Helmet- Red,13.0,2013-07-01,Other Sales,AC_HE,HL-U509-R,Accessories,Helmets,Yes
+394,LL Headset,15.0,2012-07-01,Unknown,CO_HS,HS-0296,Components,Headsets,No
+395,ML Headset,45.0,2012-07-01,Unknown,CO_HS,HS-2451,Components,Headsets,No
+396,HL Headset,55.0,2012-07-01,Unknown,CO_HS,HS-3479,Components,Headsets,No
+487,Hydration Pack - 70 oz.,21.0,2013-07-01,Other Sales,AC_HP,HY-1023-70,Accessories,Hydration Packs,No
+234,Long-Sleeve Logo Jersey- L,38.0,2013-07-01,Other Sales,CL_JE,LJ-0192-L,Clothing,Jerseys,No
+231,Long-Sleeve Logo Jersey- M,38.0,2013-07-01,Other Sales,CL_JE,LJ-0192-M,Clothing,Jerseys,No
+228,Long-Sleeve Logo Jersey- S,38.0,2013-07-01,Other Sales,CL_JE,LJ-0192-S,Clothing,Jerseys,No
+237,Long-Sleeve Logo Jersey- XL,38.0,2013-07-01,Other Sales,CL_JE,LJ-0192-X,Clothing,Jerseys,No
+447,Cable Lock,10.0,2012-07-01,Other Sales,AC_LO,LO-C100,Accessories,Locks,Yes
+451,Headlights - Dual-Beam,14.0,2012-07-01,Road,AC_LI,LT-H902,Accessories,Lights,Yes
+452,Headlights - Weatherproof,19.0,2012-07-01,Road,AC_LI,LT-H903,Accessories,Lights,Yes
+450,Taillights - Battery-Powered,6.0,2012-07-01,Road,AC_LI,LT-T990,Accessories,Lights,Yes
+446,Touring-Panniers- Large,52.0,2012-07-01,Touring,AC_PA,PA-T100,Accessories,Panniers,No
+542,LL Mountain Pedal,18.0,2013-07-01,Mountain,CO_PE,PD-M282,Unknown,Unknown,Unknown
+543,ML Mountain Pedal,28.0,2013-07-01,Mountain,CO_PE,PD-M340,Unknown,Unknown,Unknown
+544,HL Mountain Pedal,36.0,2013-07-01,Mountain,CO_PE,PD-M562,Unknown,Unknown,Unknown
+545,LL Road Pedal,18.0,2013-07-01,Road,CO_PE,PD-R347,Unknown,Unknown,Unknown
+546,ML Road Pedal,28.0,2013-07-01,Road,CO_PE,PD-R563,Unknown,Unknown,Unknown
+547,HL Road Pedal,36.0,2013-07-01,Road,CO_PE,PD-R853,Unknown,Unknown,Unknown
+548,Touring Pedal,36.0,2013-07-01,Touring,CO_PE,PD-T852,Unknown,Unknown,Unknown
+480,Patch Kit/8 Patches,1.0,2013-07-01,Other Sales,AC_TT,PK-7098,Accessories,Tires and Tubes,Yes
+448,Minipump,8.0,2012-07-01,Other Sales,AC_PU,PU-0452,Accessories,Pumps,Yes
+449,Mountain Pump,10.0,2012-07-01,Mountain,AC_PU,PU-M044,Accessories,Pumps,Yes
+483,Hitch Rack - 4-Bike,45.0,2013-07-01,Other Sales,AC_BR,RA-H123,Accessories,Bike Racks,Yes
+514,Rear Brakes,47.0,2013-07-01,Unknown,CO_BR,RB-9231,Components,Brakes,Yes
+501,Rear Derailleur,54.0,2013-07-01,Unknown,CO_DE,RD-2308,Components,Derailleurs,Yes
+419,LL Mountain Rear Wheel,39.0,2012-07-01,Mountain,CO_WH,RW-M423,Components,Wheels,Yes
+420,ML Mountain Rear Wheel,105.0,2012-07-01,Mountain,CO_WH,RW-M762,Components,Wheels,Yes
+421,HL Mountain Rear Wheel,145.0,2012-07-01,Mountain,CO_WH,RW-M928,Components,Wheels,Yes
+422,LL Road Rear Wheel,50.0,2012-07-01,Road,CO_WH,RW-R623,Components,Wheels,Yes
+423,ML Road Rear Wheel,122.0,2012-07-01,Road,CO_WH,RW-R762,Components,Wheels,Yes
+424,HL Road Rear Wheel,159.0,2012-07-01,Road,CO_WH,RW-R820,Components,Wheels,Yes
+425,Touring Rear Wheel,109.0,2012-07-01,Touring,CO_WH,RW-T905,Components,Wheels,Yes
+461,Men's Bib-Shorts- L,37.0,2012-07-01,Other Sales,CL_BS,SB-M891-L,Clothing,Bib-Shorts,No
+460,Men's Bib-Shorts- M,37.0,2012-07-01,Other Sales,CL_BS,SB-M891-M,Clothing,Bib-Shorts,No
+459,Men's Bib-Shorts- S,37.0,2012-07-01,Other Sales,CL_BS,SB-M891-S,Clothing,Bib-Shorts,No
+515,LL Mountain Seat/Saddle,12.0,2013-07-01,Mountain,CO_SA,SE-M236,Components,Saddles,No
+516,ML Mountain Seat/Saddle,17.0,2013-07-01,Mountain,CO_SA,SE-M798,Components,Saddles,No
+517,HL Mountain Seat/Saddle,23.0,2013-07-01,Mountain,CO_SA,SE-M940,Components,Saddles,No
+518,LL Road Seat/Saddle,12.0,2013-07-01,Road,CO_SA,SE-R581,Components,Saddles,No
+519,ML Road Seat/Saddle,17.0,2013-07-01,Touring,CO_SA,SE-R908,Components,Saddles,No
+520,HL Road Seat/Saddle,23.0,2013-07-01,Road,CO_SA,SE-R995,Components,Saddles,No
+521,LL Touring Seat/Saddle,12.0,2013-07-01,Touring,CO_SA,SE-T312,Components,Saddles,No
+522,ML Touring Seat/Saddle,17.0,2013-07-01,Touring,CO_SA,SE-T762,Components,Saddles,No
+523,HL Touring Seat/Saddle,23.0,2013-07-01,Touring,CO_SA,SE-T924,Components,Saddles,No
+454,Men's Sports Shorts- L,25.0,2012-07-01,Other Sales,CL_SH,SH-M897-L,Clothing,Shorts,No
+453,Men's Sports Shorts- M,25.0,2012-07-01,Other Sales,CL_SH,SH-M897-M,Clothing,Shorts,No
+445,Men's Sports Shorts- S,25.0,2012-07-01,Other Sales,CL_SH,SH-M897-S,Clothing,Shorts,No
+455,Men's Sports Shorts- XL,25.0,2012-07-01,Other Sales,CL_SH,SH-M897-X,Clothing,Shorts,No
+476,Women's Mountain Shorts- L,26.0,2013-07-01,Mountain,CL_SH,SH-W890-L,Clothing,Shorts,No
+475,Women's Mountain Shorts- M,26.0,2013-07-01,Mountain,CL_SH,SH-W890-M,Clothing,Shorts,No
+474,Women's Mountain Shorts- S,26.0,2013-07-01,Mountain,CL_SH,SH-W890-S,Clothing,Shorts,No
+490,Short-Sleeve Classic Jersey- L,42.0,2013-07-01,Other Sales,CL_JE,SJ-0194-L,Clothing,Jerseys,No
+489,Short-Sleeve Classic Jersey- M,42.0,2013-07-01,Other Sales,CL_JE,SJ-0194-M,Clothing,Jerseys,No
+488,Short-Sleeve Classic Jersey- S,42.0,2013-07-01,Other Sales,CL_JE,SJ-0194-S,Clothing,Jerseys,No
+491,Short-Sleeve Classic Jersey- XL,42.0,2013-07-01,Other Sales,CL_JE,SJ-0194-X,Clothing,Jerseys,No
+219,Mountain Bike Socks- L,3.0,2011-07-01,Mountain,CL_SO,SO-B909-L,Clothing,Socks,No
+218,Mountain Bike Socks- M,3.0,2011-07-01,Mountain,CL_SO,SO-B909-M,Clothing,Socks,No
+482,Racing Socks- L,3.0,2013-07-01,Road,CL_SO,SO-R809-L,Clothing,Socks,No
+481,Racing Socks- M,3.0,2013-07-01,Road,CL_SO,SO-R809-M,Clothing,Socks,No
+486,All-Purpose Bike Stand,59.0,2013-07-01,Mountain,AC_BS,ST-1401,Accessories,Bike Stands,No
+458,Women's Tights- L,31.0,2012-07-01,Other Sales,CL_TI,TG-W091-L,Clothing,Tights,No
+457,Women's Tights- M,31.0,2012-07-01,Other Sales,CL_TI,TG-W091-M,Clothing,Tights,No
+456,Women's Tights- S,31.0,2012-07-01,Other Sales,CL_TI,TG-W091-S,Clothing,Tights,No
+535,LL Mountain Tire,9.0,2013-07-01,Mountain,AC_TT,TI-M267,Accessories,Tires and Tubes,Yes
+536,ML Mountain Tire,11.0,2013-07-01,Mountain,AC_TT,TI-M602,Accessories,Tires and Tubes,Yes
+537,HL Mountain Tire,13.0,2013-07-01,Mountain,AC_TT,TI-M823,Accessories,Tires and Tubes,Yes
+538,LL Road Tire,8.0,2013-07-01,Road,AC_TT,TI-R092,Accessories,Tires and Tubes,Yes
+539,ML Road Tire,9.0,2013-07-01,Road,AC_TT,TI-R628,Accessories,Tires and Tubes,Yes
+540,HL Road Tire,12.0,2013-07-01,Road,AC_TT,TI-R982,Accessories,Tires and Tubes,Yes
+541,Touring Tire,11.0,2013-07-01,Touring,AC_TT,TI-T723,Accessories,Tires and Tubes,Yes
+528,Mountain Tire Tube,2.0,2013-07-01,Mountain,AC_TT,TT-M928,Accessories,Tires and Tubes,Yes
+529,Road Tire Tube,1.0,2013-07-01,Road,AC_TT,TT-R982,Accessories,Tires and Tubes,Yes
+530,Touring Tire Tube,2.0,2013-07-01,Touring,AC_TT,TT-T092,Accessories,Tires and Tubes,Yes
+473,Classic Vest- L,24.0,2013-07-01,Other Sales,CL_VE,VE-C304-L,Clothing,Vests,No
+472,Classic Vest- M,24.0,2013-07-01,Other Sales,CL_VE,VE-C304-M,Clothing,Vests,No
+471,Classic Vest- S,24.0,2013-07-01,Other Sales,CL_VE,VE-C304-S,Clothing,Vests,No
+477,Water Bottle - 30 oz.,2.0,2013-07-01,Other Sales,AC_BC,WB-H098,Accessories,Bottles and Cages,No

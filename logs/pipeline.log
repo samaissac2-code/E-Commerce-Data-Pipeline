@@ -1,0 +1,139 @@
+2026-11-16 17:55:13 | INFO | Silver Loading - Started
+2026-11-16 17:55:13 | INFO | Silver Loading - Completed successfully | Rows: 18484
+2026-11-16 17:59:22 | INFO | Bronze Loading - Started
+2026-11-16 17:59:38 | ERROR | Bronze Loading - Failed | Error: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]TCP Provider: Timeout error [258].  (258) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Unable to complete login process due to delay in login response (258)')
+2026-11-16 18:00:49 | INFO | Bronze Loading - Started
+2026-11-16 18:01:19 | INFO | Bronze Loading - crm_cust_info - Started
+2026-11-16 18:01:19 | ERROR | Bronze Loading - Failed | Error: Table bronze.crm_cust_info is not empty.
+2026-11-16 19:04:02 | INFO | ==================================================
+2026-11-16 19:04:02 | INFO | DATA QUALITY CHECK STARTED
+2026-11-16 19:04:02 | INFO | ==================================================
+2026-11-16 19:04:02 | INFO | File: crm_cust_info.csv
+2026-11-16 19:04:02 | INFO | Rows: 18494
+2026-11-16 19:04:02 | INFO | Missing Values: 4608
+2026-11-16 19:04:02 | INFO | Duplicate Rows: 0
+2026-11-16 19:04:02 | INFO | Row Count Check: PASSED
+2026-11-16 19:04:03 | INFO | File: crm_prd_info.csv
+2026-11-16 19:04:03 | INFO | Rows: 397
+2026-11-16 19:04:03 | INFO | Missing Values: 216
+2026-11-16 19:04:03 | INFO | Duplicate Rows: 0
+2026-11-16 19:04:03 | INFO | Row Count Check: PASSED
+2026-11-16 19:04:03 | INFO | File: crm_sales_details.csv
+2026-11-16 19:04:03 | INFO | Rows: 60398
+2026-11-16 19:04:03 | INFO | Missing Values: 15
+2026-11-16 19:04:03 | INFO | Duplicate Rows: 0
+2026-11-16 19:04:03 | INFO | Row Count Check: PASSED
+2026-11-16 19:04:03 | INFO | File: erp_cust_az12.csv
+2026-11-16 19:04:03 | INFO | Rows: 18484
+2026-11-16 19:04:03 | INFO | Missing Values: 1472
+2026-11-16 19:04:03 | INFO | Duplicate Rows: 0
+2026-11-16 19:04:03 | INFO | Row Count Check: PASSED
+2026-11-16 19:04:03 | INFO | File: erp_loc_a101.csv
+2026-11-16 19:04:03 | INFO | Rows: 18484
+2026-11-16 19:04:03 | INFO | Missing Values: 332
+2026-11-16 19:04:03 | INFO | Duplicate Rows: 0
+2026-11-16 19:04:03 | INFO | Row Count Check: PASSED
+2026-11-16 19:04:03 | INFO | File: erp_px_cat_g1v2.csv
+2026-11-16 19:04:03 | INFO | Rows: 37
+2026-11-16 19:04:03 | INFO | Missing Values: 0
+2026-11-16 19:04:03 | INFO | Duplicate Rows: 0
+2026-11-16 19:04:03 | INFO | Row Count Check: PASSED
+2026-11-16 19:04:03 | INFO | File: products_api.csv
+2026-11-16 19:04:03 | INFO | Rows: 30
+2026-11-16 19:04:03 | INFO | Missing Values: 15
+2026-11-16 19:04:03 | INFO | Duplicate Rows: 0
+2026-11-16 19:04:03 | INFO | API dataset checked separately
+2026-11-16 19:04:03 | INFO | DATA QUALITY CHECK COMPLETED
+2026-11-16 19:06:07 | INFO | ==================================================
+2026-11-16 19:06:07 | INFO | DATA QUALITY CHECK STARTED
+2026-11-16 19:06:07 | INFO | ==================================================
+2026-11-16 19:06:07 | ERROR | crm_cust_info.csv - File not found
+2026-11-16 19:06:07 | ERROR | crm_prd_info.csv - File not found
+2026-11-16 19:06:07 | ERROR | crm_sales_details.csv - File not found
+2026-11-16 19:06:07 | ERROR | erp_cust_az12.csv - File not found
+2026-11-16 19:06:07 | ERROR | erp_loc_a101.csv - File not found
+2026-11-16 19:06:07 | ERROR | erp_px_cat_g1v2.csv - File not found
+2026-11-16 19:06:07 | ERROR | products_api.csv - File not found
+2026-11-16 19:06:07 | INFO | DATA QUALITY CHECK COMPLETED
+2026-11-16 19:09:05 | INFO | ==================================================
+2026-11-16 19:09:05 | INFO | DATA QUALITY CHECK STARTED
+2026-11-16 19:09:05 | INFO | ==================================================
+2026-11-16 19:09:05 | ERROR | crm_cust_info.csv - File not found
+2026-11-16 19:09:05 | ERROR | crm_prd_info.csv - File not found
+2026-11-16 19:09:05 | ERROR | crm_sales_details.csv - File not found
+2026-11-16 19:09:05 | ERROR | erp_cust_az12.csv - File not found
+2026-11-16 19:09:05 | ERROR | erp_loc_a101.csv - File not found
+2026-11-16 19:09:05 | ERROR | erp_px_cat_g1v2.csv - File not found
+2026-11-16 19:09:05 | ERROR | products_api.csv - File not found
+2026-11-16 19:09:05 | INFO | DATA QUALITY CHECK COMPLETED
+2026-11-16 19:10:45 | INFO | ============================================================
+2026-11-16 19:10:45 | INFO | ECOMMERCE DATA QUALITY PIPELINE STARTED
+2026-11-16 19:10:45 | INFO | RAW DATA QUALITY CHECK STARTED
+2026-11-16 19:10:45 | INFO | Starting file check: crm_cust_info.csv
+2026-11-16 19:10:45 | INFO | crm_cust_info.csv | Rows: 18494 | Columns: 7 | Missing: 4608 | Duplicates: 0
+2026-11-16 19:10:45 | INFO | crm_cust_info.csv - Row count check PASSED
+2026-11-16 19:10:45 | WARNING | crm_cust_info.csv - Missing values: 4608
+2026-11-16 19:10:45 | INFO | Starting file check: crm_prd_info.csv
+2026-11-16 19:10:45 | INFO | crm_prd_info.csv | Rows: 397 | Columns: 7 | Missing: 216 | Duplicates: 0
+2026-11-16 19:10:45 | INFO | crm_prd_info.csv - Row count check PASSED
+2026-11-16 19:10:45 | WARNING | crm_prd_info.csv - Missing values: 216
+2026-11-16 19:10:45 | INFO | Starting file check: crm_sales_details.csv
+2026-11-16 19:10:45 | INFO | crm_sales_details.csv | Rows: 60398 | Columns: 9 | Missing: 15 | Duplicates: 0
+2026-11-16 19:10:45 | INFO | crm_sales_details.csv - Row count check PASSED
+2026-11-16 19:10:45 | WARNING | crm_sales_details.csv - Missing values: 15
+2026-11-16 19:10:45 | INFO | Starting file check: erp_cust_az12.csv
+2026-11-16 19:10:45 | INFO | erp_cust_az12.csv | Rows: 18484 | Columns: 3 | Missing: 1472 | Duplicates: 0
+2026-11-16 19:10:45 | INFO | erp_cust_az12.csv - Row count check PASSED
+2026-11-16 19:10:45 | WARNING | erp_cust_az12.csv - Missing values: 1472
+2026-11-16 19:10:45 | INFO | Starting file check: erp_loc_a101.csv
+2026-11-16 19:10:45 | INFO | erp_loc_a101.csv | Rows: 18484 | Columns: 2 | Missing: 332 | Duplicates: 0
+2026-11-16 19:10:45 | INFO | erp_loc_a101.csv - Row count check PASSED
+2026-11-16 19:10:45 | WARNING | erp_loc_a101.csv - Missing values: 332
+2026-11-16 19:10:45 | INFO | Starting file check: erp_px_cat_g1v2.csv
+2026-11-16 19:10:45 | INFO | erp_px_cat_g1v2.csv | Rows: 37 | Columns: 4 | Missing: 0 | Duplicates: 0
+2026-11-16 19:10:45 | INFO | erp_px_cat_g1v2.csv - Row count check PASSED
+2026-11-16 19:10:45 | INFO | Starting file check: products_api.csv
+2026-11-16 19:10:45 | INFO | products_api.csv | Rows: 30 | Columns: 22 | Missing: 15 | Duplicates: 0
+2026-11-16 19:10:45 | WARNING | products_api.csv - Missing values: 15
+2026-11-16 19:10:45 | INFO | RAW DATA QUALITY CHECK COMPLETED
+2026-11-16 19:10:45 | INFO | GOLD DATA QUALITY CHECK STARTED
+2026-11-16 19:10:45 | INFO | Starting file check: dim_customer.csv
+2026-11-16 19:10:45 | INFO | dim_customer.csv | Rows: 18484 | Columns: 9 | Missing: 16 | Duplicates: 0
+2026-11-16 19:10:45 | WARNING | dim_customer.csv - Missing values: 16
+2026-11-16 19:10:45 | INFO | Starting file check: dim_product.csv
+2026-11-16 19:10:45 | INFO | dim_product.csv | Rows: 295 | Columns: 10 | Missing: 0 | Duplicates: 0
+2026-11-16 19:10:45 | INFO | Starting file check: fact_sales.csv
+2026-11-16 19:10:45 | INFO | fact_sales.csv | Rows: 60398 | Columns: 9 | Missing: 19 | Duplicates: 0
+2026-11-16 19:10:45 | WARNING | fact_sales.csv - Missing values: 19
+2026-11-16 19:10:45 | INFO | GOLD DATA QUALITY CHECK COMPLETED
+2026-11-16 19:10:45 | INFO | PRIMARY KEY VALIDATION STARTED
+2026-11-16 19:10:45 | INFO | Customer Primary Key PASSED
+2026-11-16 19:10:45 | INFO | Product Primary Key PASSED
+2026-11-16 19:10:45 | INFO | PRIMARY KEY VALIDATION COMPLETED
+2026-11-16 19:10:45 | INFO | REFERENTIAL INTEGRITY CHECK STARTED
+2026-11-16 19:10:45 | INFO | Customer Relationship PASSED
+2026-11-16 19:10:45 | INFO | Product Relationship PASSED
+2026-11-16 19:10:45 | INFO | REFERENTIAL INTEGRITY CHECK COMPLETED
+2026-11-16 19:10:45 | INFO | ECOMMERCE DATA QUALITY PIPELINE COMPLETED
+2026-11-16 19:10:45 | INFO | ============================================================
+2026-11-16 19:17:21 | INFO | Bronze Validation - Started
+2026-11-16 19:17:36 | ERROR | Bronze Validation - Failed | Error: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]TCP Provider: Timeout error [258].  (258) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Unable to complete login process due to delay in login response (258)')
+2026-11-16 19:17:55 | INFO | Bronze Validation - Started
+2026-11-16 19:18:53 | INFO | Bronze Validation - crm_cust_info - Started
+2026-11-16 19:18:53 | INFO | Bronze Validation - crm_cust_info - Completed successfully | Rows: 18494
+2026-11-16 19:18:53 | INFO | Bronze Validation - crm_prd_info - Started
+2026-11-16 19:18:53 | INFO | Bronze Validation - crm_prd_info - Completed successfully | Rows: 397
+2026-11-16 19:18:53 | INFO | Bronze Validation - crm_sales_details - Started
+2026-11-16 19:18:53 | INFO | Bronze Validation - crm_sales_details - Completed successfully | Rows: 60398
+2026-11-16 19:18:53 | INFO | Bronze Validation - erp_cust_az12 - Started
+2026-11-16 19:18:53 | INFO | Bronze Validation - erp_cust_az12 - Completed successfully | Rows: 18484
+2026-11-16 19:18:53 | INFO | Bronze Validation - erp_loc_a101 - Started
+2026-11-16 19:18:54 | INFO | Bronze Validation - erp_loc_a101 - Completed successfully | Rows: 18484
+2026-11-16 19:18:54 | INFO | Bronze Validation - erp_px_cat_g1v2 - Started
+2026-11-16 19:18:54 | INFO | Bronze Validation - erp_px_cat_g1v2 - Completed successfully | Rows: 37
+2026-11-16 19:18:54 | INFO | Bronze Validation - All Tables - Completed successfully | Rows: None
+2026-11-16 20:29:29 | INFO | Silver Validation - Started
+2026-11-16 20:29:47 | INFO | Silver Validation - Completed successfully | Rows: None
+2026-11-16 20:32:01 | INFO | Silver Validation - Started
+2026-11-16 20:33:41 | INFO | Silver Validation - Started
+2026-11-16 20:33:49 | INFO | Silver Validation - Completed successfully | Rows: None

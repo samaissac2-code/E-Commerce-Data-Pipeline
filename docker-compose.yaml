@@ -1,0 +1,74 @@
+services:
+  postgres:
+    image: postgres:15
+    environment:
+      - POSTGRES_USER=airflow
+      - POSTGRES_PASSWORD=airflow
+      - POSTGRES_DB=airflow
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: [ "CMD", "pg_isready", "-U", "airflow" ]
+      interval: 5s
+      retries: 5
+
+  airflow-init:
+    image: apache/airflow:2.10.2-python3.11
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://airflow:airflow@postgres/airflow
+      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+      - _PIP_ADDITIONAL_REQUIREMENTS=pandas numpy pyodbc
+    command: >
+      bash -c " airflow db migrate && airflow users create --username airflow --password airflow --firstname Ahmed --lastname Ashraf --role Admin --email heroahmed878@gmail.com || true "
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./project:/opt/airflow/project
+      - ./logs:/opt/airflow/logs
+
+  airflow-webserver:
+    image: apache/airflow:2.10.2-python3.11
+    depends_on:
+      postgres:
+        condition: service_healthy
+      airflow-init:
+        condition: service_completed_successfully
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor
+      - AIRFLOW__WEBSERVER__WORKERS=1
+      - AIRFLOW__WEBSERVER__WEB_SERVER_WORKER_TIMEOUT=300
+      - AIRFLOW__WEBSERVER__WEB_SERVER_MASTER_TIMEOUT=300
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://airflow:airflow@postgres/airflow
+      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+    ports:
+      - "8080:8080"
+    command: webserver
+    healthcheck:
+      test: [ "CMD", "curl", "--fail", "http://localhost:8080/health" ]
+      interval: 10s
+      retries: 5
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./project:/opt/airflow/project
+      - ./logs:/opt/airflow/logs
+
+  airflow-scheduler:
+    image: apache/airflow:2.10.2-python3.11
+    depends_on:
+      postgres:
+        condition: service_healthy
+      airflow-init:
+        condition: service_completed_successfully
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://airflow:airflow@postgres/airflow
+      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+      - _PIP_ADDITIONAL_REQUIREMENTS=pandas numpy pyodbc
+    command: scheduler
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./project:/opt/airflow/project
+      - ./logs:/opt/airflow/logs
